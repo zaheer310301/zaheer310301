@@ -37,11 +37,11 @@ Each project teaches me something new about code quality, documentation, and how
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Projects & Contributions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaheer310301&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true)
+I maintain a collection of public projects across various technologies. You'll find full-stack applications, system design projects, and learning-focused repositories. Check out my [repositories](https://github.com/zaheer310301?tab=repositories) to explore what I'm working on.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheer310301&layout=compact&theme=transparent&hide_border=true)
+**Featured Tech:** TypeScript · PHP · Java · Python · Next.js · REST APIs · Google Sheets
 
 ---
 
