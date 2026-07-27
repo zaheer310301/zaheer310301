@@ -1,6 +1,6 @@
 # Hi, I'm Zaheer 👋
 
-I'm a student who builds full-stack applications and learns through hands-on projects. I enjoy working on everything from backend systems to frontend interfaces, and I'm always looking for ways to solve real problems with code.
+I'm an undergrad student who builds full-stack applications and learns through hands-on projects. I enjoy working on everything from backend systems to frontend interfaces, and I'm always looking for ways to solve real problems with code.
 
 ## 🛠 What I Work With
 
