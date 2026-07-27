@@ -1,6 +1,6 @@
 # Hey there, I'm Zaheer 👋
 
-I'm a student developer passionate about building full-stack applications and learning through real-world projects. I enjoy tackling problems that span the entire stack—from backend architecture to responsive frontends—and I'm always experimenting with new tools and technologies.
+I'm an undergrad student developer passionate about building full-stack applications and learning through real-world projects. I enjoy tackling problems that span the entire stack—from backend architecture to responsive frontends—and I'm always experimenting with new tools and technologies.
 
 ---
 
